@@ -1,8 +1,15 @@
 ### Bem-vindo!
 ###  Olá, eu sou Amanda Sousa👋
 
+👋 Olá! Sou uma profissional apaixonada por tecnologia e gestão, formada em Administração e Análise e Desenvolvimento de Sistemas. Tenho um forte interesse pelo desenvolvimento back end, buscando soluções eficientes e robustas para os desafios tecnológicos.
 
-- 👩‍🎓 Sou Administradora e Desenvolvedora | 🔭 Hoje trabalho com Data analytics |🌱 No momento estou estudando Python
+Além disso, sou uma alma inquieta que adora explorar novos horizontes. Amo viajar e mergulhar em diferentes culturas, expandindo minha visão de mundo. Nos momentos de folga, você pode me encontrar praticando esportes, pois sou apaixonada por manter meu corpo ativo e saudável.
+
+A leitura é outra paixão que nutro, pois acredito no poder transformador das palavras. Nada como um bom livro para expandir os horizontes da mente e mergulhar em histórias cativantes.
+
+Uma frase que me define e reflete minha visão de vida é: "Sua casa é você." Acredito que o verdadeiro lar está dentro de nós mesmos, onde cultivamos nossos valores, sonhos e experiências. Assim, busco trazer essa essência para tudo o que faço, construindo projetos sólidos e duradouros.
+
+Vamos juntos nessa jornada tecnológica, de autodescoberta e saúde! ✨
 
 - Conhecimento nas Linguagens
 
