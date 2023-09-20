@@ -20,11 +20,6 @@ Vamos juntos nessa jornada tecnológica, de autodescoberta e saúde! ✨
 <img align="center" alt="amanda-Tableau" height="30" width="100" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 
 
-
-
-
-
-
 </div>
 <br>
 <a href="https://beacons.ai/sousanunesbs">
@@ -36,6 +31,7 @@ Vamos juntos nessa jornada tecnológica, de autodescoberta e saúde! ✨
 
 <div> 
   
+  ### Entre em contato comigo:
   
   <a href="https://www.linkedin.com/in/amanda-sousa-5856aa176" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=White"
