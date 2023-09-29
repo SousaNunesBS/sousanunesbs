@@ -19,14 +19,6 @@ Vamos juntos nessa jornada tecnológica, de autodescoberta e saúde! ✨
 <img align="center" alt="amanda-SQL" height="30" width="100" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 <img align="center" alt="amanda-Tableau" height="30" width="100" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 
-
-</div>
-<br>
-<a href="https://beacons.ai/sousanunesbs">
-<img height = "300em" src="https://github-readme-stats.vercel.app/api?username=sousanunesbs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height = "180em" src"https://github-readme-stats.vercel.app/api/top-langs/?username=sousanunesbs&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
 <br>
 
 <div> 
