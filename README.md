@@ -1,7 +1,7 @@
 ### Bem-vindo!
 ###  Olá, eu sou Amanda Sousa👋
 
-Uma profissional apaixonada por tecnologia e gestão, formada em Administração e Análise e Desenvolvimento de Sistemas. Tenho um forte interesse pelo desenvolvimento back end, buscando soluções eficientes e robustas para os desafios tecnológicos.
+Uma profissional apaixonada por tecnologia e gestão, formada em Administração e Análise e Desenvolvimento de Sistemas. 
 
 Além disso, sou uma alma inquieta que adora explorar novos horizontes. Amo viajar e mergulhar em diferentes culturas, expandindo minha visão de mundo. Nos momentos de folga, você pode me encontrar praticando esportes, pois sou apaixonada por manter meu corpo ativo e saudável.
 
