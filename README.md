@@ -1,4 +1,4 @@
-### Bem-vindo!
+### Bem-vindo ao meu perfil 👋!!!
 ###  Olá, eu sou Amanda Sousa👋
 
 Uma profissional apaixonada por tecnologia e gestão, formada em Administração e Análise e Desenvolvimento de Sistemas. 
@@ -11,7 +11,7 @@ Uma frase que me define e reflete minha visão de vida é: "Sua casa é você." 
 
 Vamos juntos nessa jornada tecnológica, de autodescoberta e saúde! ✨
 
-### Tecnologias !
+### Ferramentas e Tecnologias !
 
 <div>
 <div style="display: inline_block"><br>
