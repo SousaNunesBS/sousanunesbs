@@ -28,6 +28,7 @@ Vamos juntos nessa jornada tecnológica, de autodescoberta! ✨
 
 ## Ferramentas e Tecnológias:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white")&nbsp;
 
 
 
